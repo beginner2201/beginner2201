@@ -6,6 +6,8 @@
 - See HTML in the right
 - ✨Magic ✨
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 
 <!--
 **beginner2201/beginner2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
