@@ -1,4 +1,11 @@
-### Hi there 👋
+## *안녕하세요!*
+
+### *백엔드 개발자가 되고싶은 이종민이라고 합니다!*
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
 
 <!--
 **beginner2201/beginner2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
