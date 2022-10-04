@@ -2,11 +2,12 @@
 
 ### *백엔드 개발자가 되고싶은 이종민이라고 합니다!*
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
+
+
+## **skill**
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
 
 
 <!--
